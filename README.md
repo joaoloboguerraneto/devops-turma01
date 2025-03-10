@@ -69,7 +69,7 @@ Cada aula terá vídeos de no máximo **30 minutos**, organizados por capítulos
 
 ### 🔹 1. Clonar o repositório
 ```sh
-git clone https://github.com/seu-usuario/devops-course.git
+git clone https://github.com/joaoloboguerraneto/devops-turma01.git
 ```
 
 ### 🔹 2. Escolher um módulo e seguir os passos
